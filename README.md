@@ -1,3 +1,3 @@
-# @frida/querystring
+# @ainakan/querystring
 
-Frida-optimized ESM fork of https://github.com/Gozala/querystring.
+Ainakan-optimized ESM fork of https://github.com/Gozala/querystring.
